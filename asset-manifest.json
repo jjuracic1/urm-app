@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jjuracic1.github.io/urm-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/jjuracic1.github.io/urm-app/static/js/main.d3643e0f.chunk.js",
+    "main.js.map": "/jjuracic1.github.io/urm-app/static/js/main.d3643e0f.chunk.js.map",
+    "runtime-main.js": "/jjuracic1.github.io/urm-app/static/js/runtime-main.84c9c156.js",
+    "runtime-main.js.map": "/jjuracic1.github.io/urm-app/static/js/runtime-main.84c9c156.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/jjuracic1.github.io/urm-app/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.35d8d6e8.chunk.js": "/jjuracic1.github.io/urm-app/static/js/2.35d8d6e8.chunk.js",
+    "static/js/2.35d8d6e8.chunk.js.map": "/jjuracic1.github.io/urm-app/static/js/2.35d8d6e8.chunk.js.map",
+    "index.html": "/jjuracic1.github.io/urm-app/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/jjuracic1.github.io/urm-app/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/jjuracic1.github.io/urm-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.35d8d6e8.chunk.js.LICENSE.txt": "/jjuracic1.github.io/urm-app/static/js/2.35d8d6e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c9c156.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.35d8d6e8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d3643e0f.chunk.js"
+  ]
+}
